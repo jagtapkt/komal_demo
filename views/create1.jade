@@ -1,0 +1,33 @@
+doctype html
+    html(lang="en")
+        head
+            title   #{title}
+            link(rel='stylesheet',href='/css/mystyle.css')
+        body
+            a(href="/") Home
+            h1  Add Employee Details
+            form(method="POST",action="/create")
+                table
+                    tr
+                        td
+                            label Id:
+                        td
+                            input(name="keyid",type="text" placeholder="enetr mongo key _id")
+                    tr
+                        td
+                            label Employee Id:
+                        td
+                            input(name="eid",type="text" placeholder="enetr employee id")
+                    tr
+                        td
+                            label Name:
+                        td
+                            input(name="ename",type="text" placeholder="enetr name")
+                    tr
+                        td
+                            label salary:
+                        td
+                            input(name="sal",type="text" placeholder="enetr salary")
+                    tr
+                        td(colspan="2",align="center")
+                            input(name="keyid",type="submit" value="Add Employee" placeholder="enetr id")
