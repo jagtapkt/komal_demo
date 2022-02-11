@@ -1,0 +1,15 @@
+1.whenever a function gets a call, it gets a stack frame.
+2.Function on top always get Executed.
+3.Class loader calls "main" method.
+4.local variable means local to a Stackframe.
+5.Object is SOMTHING HAVING Sate, Behavior,identity and responsibility.
+6.State is giving values to attributes.
+7.Behavior is How an object reponds to outside world.
+8.Identity is uniqueness associated with evey object.
+9.Abstraction means selective Ignorance.
+10.At end of Abtraction we get State of an Object.
+11.Class is a way of implementing encapsulation.
+12.Inheritance means reuse of already define classes with IS-A relationship.
+13.Reuse of classes shuold be done to avoid or reduce Redenency.
+14.Reduendency means repitation of values for same object.
+15.same message given to generalize thing for same behaviour but implemented differently -> polymorphism
