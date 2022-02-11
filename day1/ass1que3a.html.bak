@@ -1,0 +1,10 @@
+<html>
+<b><font size="+1"> Education Qualification </b></font>
+<table> <table border=1>
+<tr> <th>Qulification</th> <th>Institute</th> <th>University/Board</th>
+<th>Marks(%)</th> <th>Year Of Passing</th>
+<tr><td>B.E(Mech)</td><td>S.B.Patil</td><td>SPPU</td><td>CGPA-6.61</td><td>2020</td></tr>
+<tr><td>HSC</td><td>S.M.V.Akluj</td><td>MSBSHSE</td><td>60.61%</td><td>2015</td></tr>
+<tr><td>SSC</td><td>S.M.V.Akluj</td><td>MSBSHSE</td><td>83.80%</td><td>2013</td></tr>
+</table><br><br><br>
+</html>

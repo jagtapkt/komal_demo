@@ -1,0 +1,29 @@
+<html>
+<title>
+Create your resume page as per the format shown in the figure on LHS.
+</title>
+<head> <center> <font size="+2"><b><u> Resume </b> </u> </font></head></center>
+<body>
+<I> <b>Aayaj Shabbir Kazi </b><br>
+Aklai Nagar,Akluj<BR>
+Pin:413101<BR>
+Mob.no-9637081930<br>
+Email:<a href="mailto:kazias1997@gmail.com">kazias1997@gmail.com</a></I>
+<hr>
+<b><font size="+1"> Education Qualification </b></font>
+<table> <table border=1>
+<tr> <th>Qulification</th> <th>Institute</th> <th>University/Board</th>
+<th>Marks(%)</th> <th>Year Of Passing</th>
+<tr><td>B.E(Mech)</td><td>S.B.Patil</td><td>SPPU</td><td>CGPA-6.61</td><td>2020</td></tr>
+<tr><td>HSC</td><td>S.M.V.Akluj</td><td>MSBSHSE</td><td>60.61%</td><td>2015</td></tr>
+<tr><td>SSC</td><td>S.M.V.Akluj</td><td>MSBSHSE</td><td>83.80%</td><td>2013</td></tr>
+</table><br>
+<b><font size="+1"> Skill Set </b></font>
+<table>
+<tr><td><b> Programming Language: </b></td> <td> C,C++,Java,Python </tr>
+<tr><td><b> Operating Systems:</b></td> <td> Windows,Linux,Android </tr>
+<tr><td><b> DBMS: </b></td> <td> MySQL,MongoDB </tr>
+<tr><td><b> Front End: </b></td> <td> HTML,CSS,React </tr>
+</table>
+</body>
+</html>
